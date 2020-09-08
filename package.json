@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "name": "@acme/icons",
   "version": "1.0.1",
   "scripts": {
