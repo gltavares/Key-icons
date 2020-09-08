@@ -1,6 +1,6 @@
 {
   "name": "@key/react-icons",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "peerDependencies": {
     "react": ">=16.2.0",
     "react-native-web": ">=0.3.4"
