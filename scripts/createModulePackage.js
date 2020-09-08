@@ -16,7 +16,7 @@ const createModulePackage = (svgs, version) => {
   files.push({
     filepath: 'package.json',
     source: `{
-  "name": "@acme/module-icons",
+  "name": "@key/module-icons",
   "version": "${version}"
 }`
   });

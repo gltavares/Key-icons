@@ -57,7 +57,7 @@ export default createIconComponent;
  * Template: package.json
  */
 const getPackageJsonSource = ({ version }) => `{
-  "name": "@acme/react-icons",
+  "name": "@key/react-icons",
   "version": "${version}",
   "peerDependencies": {
     "react": ">=16.2.0",
