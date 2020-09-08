@@ -1,0 +1,1 @@
+module.exports = {"metadata":{"width":"24","height":"24","name":"arrow-down-line"},"source":"<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.69 12.75l1.06-1.06 6.72 6.719V2.719h1.5v15.69l6.72-6.72 1.06 1.061-8.53 8.53-8.53-8.53z\" fill=\"#000\"/>"}

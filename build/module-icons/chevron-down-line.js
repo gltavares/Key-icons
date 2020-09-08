@@ -1,0 +1,1 @@
+module.exports = {"metadata":{"width":"24","height":"24","name":"chevron-down-line"},"source":"<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.5 8.106L4.557 7 12 14.788 19.443 7 20.5 8.106 12 17 3.5 8.106z\" fill=\"#000\"/>"}

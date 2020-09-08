@@ -1,0 +1,1 @@
+module.exports = {"metadata":{"width":"24","height":"24","name":"radio-selected"},"source":"<path d=\"M12 19a7 7 0 1 0 0-14 7 7 0 0 0 0 14z\" fill=\"#000\"/><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M22 12c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2s10 4.477 10 10zm-1 0a9 9 0 1 1-18 0 9 9 0 0 1 18 0z\" fill=\"#000\"/>"}

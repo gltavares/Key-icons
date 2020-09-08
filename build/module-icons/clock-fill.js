@@ -1,0 +1,1 @@
+module.exports = {"metadata":{"width":"24","height":"24","name":"clock-fill"},"source":"<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zm.75-10.31V6h-1.5v6.31l3.22 3.22 1.06-1.06-2.78-2.78z\" fill=\"#000\"/>"}

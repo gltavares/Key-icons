@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "@key/icons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
     "build": "NODE_ENV=production node scripts/build.js",
     "release": "NODE_ENV=production node scripts/release.js"

@@ -1,0 +1,1 @@
+module.exports = {"metadata":{"width":"24","height":"24","name":"info-line"},"source":"<path d=\"M12 8a.5.5 0 1 1 0 1 .5.5 0 0 1 0-1zM11.5 16v-6h1v6h-1z\" fill=\"#000\"/><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10zm0-1a9 9 0 1 0 0-18 9 9 0 0 0 0 18z\" fill=\"#000\"/>"}
