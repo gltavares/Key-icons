@@ -1,0 +1,1 @@
+module.exports = {"metadata":{"width":"24","height":"24","name":"file-line"},"source":"<path d=\"M14.5 4.226V7.5A1.5 1.5 0 0016 9h2.32L14.5 4.226zM14 2l6 7.5V20a2 2 0 01-2 2H6a2 2 0 01-2-2V4a2 2 0 012-2h8zm-.5 1H6a1 1 0 00-1 1v16a1 1 0 001 1h12a1 1 0 001-1V10h-3a2.5 2.5 0 01-2.5-2.5V3z\" fill=\"#B3B3B3\"/>"}

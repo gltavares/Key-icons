@@ -1,0 +1,1 @@
+module.exports = {"metadata":{"width":"24","height":"24","name":"download-line"},"source":"<path d=\"M4.647 10.979L4 11.687 12 19l8-7.313-.648-.708-6.872 6.283V3h-.96v14.262l-6.873-6.283zM20 21v-1H4v1h16z\" fill=\"#B3B3B3\"/>"}

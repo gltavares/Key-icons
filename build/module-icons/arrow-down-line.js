@@ -1,1 +1,1 @@
-module.exports = {"metadata":{"width":"24","height":"24","name":"arrow-down-line"},"source":"<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M3.69 12.75l1.06-1.06 6.72 6.719V2.719h1.5v15.69l6.72-6.72 1.06 1.061-8.53 8.53-8.53-8.53z\" fill=\"#000\"/>"}
+module.exports = {"metadata":{"width":"24","height":"24","name":"arrow-down-line"},"source":"<path d=\"M4 12.687L12 20l8-7.313-.648-.708-6.872 6.283V4h-.96v14.262l-6.873-6.283-.647.708z\" fill=\"#B3B3B3\"/>"}
