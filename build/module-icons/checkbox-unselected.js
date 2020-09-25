@@ -1,1 +1,0 @@
-module.exports = {"metadata":{"width":"24","height":"24","name":"checkbox-unselected"},"source":"<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M18 3.5H6A2.5 2.5 0 003.5 6v12A2.5 2.5 0 006 20.5h12a2.5 2.5 0 002.5-2.5V6A2.5 2.5 0 0018 3.5zM6 2a4 4 0 00-4 4v12a4 4 0 004 4h12a4 4 0 004-4V6a4 4 0 00-4-4H6z\" fill=\"#000\"/>"}

@@ -1,0 +1,1 @@
+module.exports = {"metadata":{"width":"24","height":"24","name":"circle-fill"},"source":"<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M12 22C6.455 22 2 17.546 2 12 2 6.455 6.455 2 12 2c5.546 0 10 4.455 10 10 0 5.546-4.454 10-10 10z\" fill=\"#B3B3B3\"/>"}
